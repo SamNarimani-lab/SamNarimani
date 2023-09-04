@@ -1,8 +1,6 @@
-# SamNarimani
+# SamNarimani  (🧠 Deep Learning Enthusiast | 💊 Healthcare & 🌿 Environmental AI)
 
-🧠 Deep Learning Enthusiast | 💊 Healthcare & 🌿 Environmental AI
-
-👋 Hello there! I'm [Your Name], a passionate deep learning practitioner with a strong commitment to making a positive impact on the healthcare and environmental sectors. 🏥🌱
+👋 Hello there! I'm Sam Narimani, a passionate deep learning practitioner with a strong commitment to making a positive impact on the healthcare and environmental sectors. 🏥🌱
 
 💼 By day, I'm immersed in cutting-edge AI research and development, leveraging the power of deep learning to drive innovation in healthcare, from predictive diagnostics to personalized treatment plans. 🚀
 
@@ -10,4 +8,3 @@
 
 🔬 Join me on this exciting journey as we harness the potential of AI to transform healthcare and protect our environment. Let's code for a healthier, greener future! 💻🌿
 
-Feel free to personalize it further to better match your style and specific accomplishments.
